@@ -1,0 +1,24 @@
+{
+    "category": "plugins",
+    "display": "Collapse element width ",
+    "fields": {
+        "AAC": {
+            "caption": "Element ID",
+            "doc": "The ID of the text to have its width collapsed.",
+            "editor": "DynamicValue",
+            "name": "element_id",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAD": {
+            "caption": "Extra pixels on sides",
+            "default_val": 0,
+            "doc": "Number of extra pixels on sides.",
+            "editor": "DynamicValue",
+            "name": "extra_pixels_on_sides",
+            "rank": 1,
+            "value": "number"
+        }
+    },
+    "type": "client_side"
+}

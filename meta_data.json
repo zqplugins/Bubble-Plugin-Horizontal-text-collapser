@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "social network",
+        "2": "customer support",
+        "3": "mobile"
+    },
+    "demo_page": "https://sdfsfsdfsdf.bubbleapps.io/version-test/horizontal_collapse",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nMake chat bubbles, pill and chip elements by collapsing the specified text element horizontally.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/horizontal-text-collapser-1712920443908x565323154714433300\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com ",
+    "image": "//s3.amazonaws.com/appforest_uf/f1607381898712x839906307032144300/anvil-impact.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Horizontal text collapser",
+    "plugin_instructions": "Expose ID's in your app's elements and in the workflow action \"Collapse element width\", specify the text's ID that you want to shrink its width. \nRun the workflow action \"Collapse element width\" and play with extra pixels to make it look the way you want it to."
+}
